@@ -16,7 +16,7 @@
 ![示例](https://github.com/Nian-Stars/Remote-Command-Execution/blob/main/res-one.jpg)
 # 脚本进行批量URL检测的使用方法演示：
 ## 此处演示使用的是FoFa中找到的一个"资产"
-## 1、使用python3 Any-File-Read-Poc.py -f url.txt进行执行
+## 1、使用python3 Remote-Command-Execution.py -f url.txt进行执行
 ## 2、观察返回的结果
 # 执行结果如下
 ![示例](https://github.com/Nian-Stars/Remote-Command-Execution/blob/main/res-some.jpg)
